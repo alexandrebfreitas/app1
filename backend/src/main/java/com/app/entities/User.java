@@ -1,4 +1,4 @@
-package com.exemplo.fullstackbackend.entities;
+package com.app.entities;
 
 import jakarta.persistence.*;
 
